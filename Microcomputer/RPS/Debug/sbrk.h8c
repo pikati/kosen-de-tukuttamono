@@ -1,0 +1,8 @@
+-cpu=300HN
+-object="C:\WorkSpace\S01_HEW\RPS\Debug\sbrk.obj"
+-debug
+-nolist
+-chgincpath
+"C:\WorkSpace\S01_HEW\RPS\sbrk.c"
+-lang=c
+-nologo

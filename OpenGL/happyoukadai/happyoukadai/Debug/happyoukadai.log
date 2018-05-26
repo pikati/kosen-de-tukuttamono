@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\pikap\documents\opengl\happyoukadai\happyoukadai\main.cpp(259): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\pikap\documents\opengl\happyoukadai\happyoukadai\main.cpp(260): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\pikap\documents\opengl\happyoukadai\happyoukadai\main.cpp(292): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\pikap\documents\opengl\happyoukadai\happyoukadai\main.cpp(296): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\pikap\documents\opengl\happyoukadai\happyoukadai\main.cpp(299): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\pikap\documents\opengl\happyoukadai\happyoukadai\main.cpp(304): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\pikap\documents\opengl\happyoukadai\happyoukadai\main.cpp(448): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  happyoukadai.vcxproj -> C:\Users\pikap\Documents\opengl\happyoukadai\Debug\happyoukadai.exe

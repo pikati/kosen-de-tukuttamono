@@ -1,0 +1,3 @@
+-cpu=300HN
+-output="C:\WorkSpace\S01_HEW\RPS\Debug\RPS.lib"
+-head=runtime

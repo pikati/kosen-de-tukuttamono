@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output ディレクトリの末尾がスラッシュではありません。Output ディレクトリが適切に評価されるようにするために、このビルド インスタンスによってスラッシュが追加されます。
+  kadai1.cpp
+  kadai1.vcxproj -> C:\Users\pikap\Documents\数値解析\kadai1\kadai1.txt\kadai1.exe
+  kadai1.vcxproj -> C:\Users\pikap\Documents\数値解析\kadai1\kadai1.txt\kadai1.pdb (Partial PDB)

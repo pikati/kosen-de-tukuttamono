@@ -1,0 +1,8 @@
+-cpu=300HN
+-object="C:\WorkSpace\S01_HEW\RPS\Debug\lcd_func.obj"
+-debug
+-nolist
+-chgincpath
+"C:\WorkSpace\S01_HEW\RPS\lcd_func.c"
+-lang=c
+-nologo

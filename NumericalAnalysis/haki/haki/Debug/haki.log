@@ -1,0 +1,5 @@
+﻿  haki.c
+c:\users\pikap\documents\数値解析\haki\haki\haki.c(19): warning C4028: パラメーターの型 1 が関数宣言と一致しません。
+c:\users\pikap\documents\数値解析\haki\haki\haki.c(39): warning C4028: パラメーターの型 1 が関数宣言と一致しません。
+c:\users\pikap\documents\数値解析\haki\haki\haki.c(59): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  haki.vcxproj -> C:\Users\pikap\Documents\数値解析\haki\Debug\haki.exe
